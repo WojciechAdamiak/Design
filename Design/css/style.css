@@ -46,6 +46,8 @@
   margin-left: 12.5px;
   text-transform: uppercase;
   color: #FFFFFF;
+  position: relative;
+  top: 12px;
 }
 
 .design--nav__ul {
@@ -119,7 +121,7 @@
 .design--play-1 {
   position: absolute;
   left: 300px;
-  top: 445px;
+  top: 565px;
 }
 
 .design-img {
@@ -211,6 +213,7 @@
 .design-images {
   display: flex;
   margin-top: 350px;
+  margin-left: 158px;
 }
 
 .design-man {
@@ -298,6 +301,7 @@
 .design--social__icons {
   display: flex;
   justify-content: flex-end;
+  margin-right: 16px;
 }
 
 .design--icon {
@@ -309,4 +313,13 @@
   bottom: -30px;
   left: -43px;
   left: px;
+}
+
+.design--container__footer-logo {
+  position: relative;
+  top: 10px;
+}
+
+.design-cooking {
+  margin-right: 150px
 }
